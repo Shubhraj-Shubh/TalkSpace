@@ -1,7 +1,10 @@
 # 💬 TalkSpace – Full-Stack Video Conferencing Platform  
 <img width="1919" height="907" alt="Screenshot 2025-08-11 120251" src="https://github.com/user-attachments/assets/1a9b8772-985c-41cf-89c6-4de51cd7c2e7" />
 
+---
+Demo Video Link - https://drive.google.com/file/d/12aUgBb-29iyJD5IyGOWyMk5zPZAPV6A7/view?usp=drive_link
 
+---
 
 **Tech Stack:** React.js, Node.js, Express.js, WebRTC, Socket.io, MongoDB, Material UI  
 
